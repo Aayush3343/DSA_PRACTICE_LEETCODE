@@ -30,4 +30,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3870-count-commas-in-range](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/3871-count-commas-in-range-ii/) | Medium |
 <!---LeetCode Topics End-->
