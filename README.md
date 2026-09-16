@@ -37,6 +37,7 @@
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0836-rectangle-overlap/) | Easy |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/3871-count-commas-in-range-ii/) | Medium |
 ## Counting
@@ -67,4 +68,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/2139-minimum-moves-to-reach-target-score/) | Medium |
 <!---LeetCode Topics End-->
