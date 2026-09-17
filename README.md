@@ -72,4 +72,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/2139-minimum-moves-to-reach-target-score/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 <!---LeetCode Topics End-->
