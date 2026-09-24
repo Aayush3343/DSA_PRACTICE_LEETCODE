@@ -14,6 +14,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/2469-convert-the-temperature/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/3871-count-commas-in-range-ii/) | Medium |
 ## Counting
