@@ -48,6 +48,7 @@
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/2469-convert-the-temperature/) | Easy |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/3871-count-commas-in-range-ii/) | Medium |
@@ -67,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0836-rectangle-overlap/) | Easy |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
