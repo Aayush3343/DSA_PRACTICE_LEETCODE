@@ -19,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 ## Two Pointers
@@ -55,6 +56,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -91,6 +93,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -118,4 +121,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
