@@ -13,6 +13,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/2104-sum-of-subarray-ranges/) | Medium |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -84,11 +85,13 @@
 | [0042-trapping-rain-water](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
 | [0735-asteroid-collision](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/2104-sum-of-subarray-ranges/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/2104-sum-of-subarray-ranges/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
