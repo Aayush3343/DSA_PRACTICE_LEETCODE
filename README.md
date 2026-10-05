@@ -46,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0836-rectangle-overlap/) | Easy |
 | [1952-three-divisors](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -78,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
+| [0070-climbing-stairs](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/0907-sum-of-subarray-minimums/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -136,4 +138,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/0735-asteroid-collision/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
