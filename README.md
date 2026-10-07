@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0035-search-insert-position](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0066-plus-one/) | Easy |
@@ -28,6 +29,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
@@ -39,6 +41,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
