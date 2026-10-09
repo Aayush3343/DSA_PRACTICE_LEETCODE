@@ -18,6 +18,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/3701-compute-alternating-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +142,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/0735-asteroid-collision/) | Medium |
+| [3701-compute-alternating-sum](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/3701-compute-alternating-sum/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
