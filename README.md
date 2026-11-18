@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
@@ -23,6 +24,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Aayush3343/DSA_PRACTICE_LEETCODE/tree/main/C++/Easy/0771-jewels-and-stones/) | Easy |
