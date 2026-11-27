@@ -12,7 +12,7 @@
  */
 class Solution {
 public:
-    void traversal1(TreeNode*& p, vector<int>& tree1) {
+    void traversal1(TreeNode* p, vector<int>& tree1) {
         if (p == nullptr) {
             tree1.push_back(INT_MIN);
             return;
@@ -21,13 +21,13 @@ public:
         traversal1(p->right, tree1);
         tree1.push_back(p->val);
     }
-    void traversal2(TreeNode*& q, vector<int>& tree2) {
+    void traversal2(TreeNode* q, vector<int>& tree2) {
         if (q == nullptr) {
             tree2.push_back(INT_MIN);
             return;
         }
-        traversal2(q->left, tree2);
-        traversal2(q->right, tree2);
+        traversal1(q->left, tree2);
+        traversal1(q->right, tree2);
         tree2.push_back(q->val);
     }
     bool isSameTree(TreeNode* p, TreeNode* q) {
